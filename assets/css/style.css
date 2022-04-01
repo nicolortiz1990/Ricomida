@@ -1,0 +1,54 @@
+.lista {
+    list-style: none
+}
+
+a {
+    color: white;
+}
+
+.titulo {
+    font-family: 'Lobster', cursive;
+    font-size: 40px;
+}
+
+* {
+    font-family: 'Cabin', sans-serif;
+    text-align: center;
+}
+
+footer {
+    height: 100px;
+    ;
+}
+
+h2,
+h3 {
+    color: white;
+}
+
+hr {
+    border: solid 1px;
+    background: black;
+}
+
+li {
+    text-align: left;
+}
+
+header {
+    position: fixed;
+    z-index: 1;
+    width: 100%;
+}
+
+.principal {
+    padding-top: 56px;
+}
+
+.central {
+    padding-top: 150px;
+}
+
+.foto{
+    width: 350px;
+}
